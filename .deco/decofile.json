@@ -262,7 +262,7 @@
     "path": "/",
     "sections": [
       {
-        "__resolveType": "Header"
+        "__resolveType": "site/sections/Header.tsx"
       },
       {
         "__resolveType": "site/sections/Hero.tsx",
